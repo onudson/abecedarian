@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="816"
+   height="1056"
+   viewBox="0 0 816 1056"
+   sodipodi:docname="abc-circuit-board-red.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.74526515"
+     inkscape:cx="408.57942"
+     inkscape:cy="528"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1">
+    <inkscape:page
+       x="0"
+       y="0"
+       inkscape:label="1"
+       id="page1"
+       width="816"
+       height="1056"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <g
+     id="g1"
+     inkscape:groupmode="layer"
+     inkscape:label="1">
+    <g
+       id="g2">
+      <path
+         id="path2"
+         d="m 258.91,691.56 v -12.53 h 8.1 l 2.7,2.65 v 7.3 l -2.7,2.58 z m -171.358,0 v -33.41 h 8.081 l 2.647,2.65 v 28.13 l -2.637,2.63 z m 218.468,11.95 h 31.73 v -11.95 h -9.81 V 646.2 h -12.03 v 45.36 h -9.89 z m -59.13,0 h 25.61 l 9.16,-9.17 v -17.7 l -9.17,-9.56 H 258.91 V 646.2 h -12.02 z m -52.68,0 h 12.02 v -45.36 h 16.11 V 646.2 h -28.13 z m -59.28,0 h 12.02 v -22.68 h 10.8 v 22.68 H 169.7 V 646.2 h -11.95 v 22.68 h -10.8 V 646.2 h -12.02 z m -59.402,0 h 25.612 l 9.16,-9.16 v -38.67 l -9.17,-9.48 H 75.528 Z m 286.802,0.07 h 12.47 l 3.71,-12 3.65,12 h 12.48 l -9.82,-28.7 9.82,-28.68 h -12.47 l -3.66,11.94 -3.72,-11.94 h -12.46 l 9.82,28.68 z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         transform="matrix(1.3333333,0,0,-1.3333333,0,1056)" />
+    </g>
+  </g>
+</svg>

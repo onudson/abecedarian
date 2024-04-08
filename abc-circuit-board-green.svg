@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="816"
+   height="1056"
+   viewBox="0 0 816 1056"
+   sodipodi:docname="abc-circuit-board-green.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.74526515"
+     inkscape:cx="408.57942"
+     inkscape:cy="528"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1">
+    <inkscape:page
+       x="0"
+       y="0"
+       inkscape:label="1"
+       id="page1"
+       width="816"
+       height="1056"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <g
+     id="g1"
+     inkscape:groupmode="layer"
+     inkscape:label="1">
+    <g
+       id="g2">
+      <path
+         id="path2"
+         d="m 92.915,675.93 -2.311,-13.96 h 4.634 z m -6.179,27.58 h 12.428 l 11.206,-56.53 -0.35,-0.42 -11.84,-0.36 -0.707,3.89 H 88.347 L 87.57,646.2 H 75.531 Z m 48.314,0 h 34.77 v -11.95 h -22.75 v -10.73 h 10.6 v -11.95 h -10.6 v -10.73 h 22.75 V 646.2 h -34.77 z m 59.16,0 h 12.02 V 646.2 h -10.58 l -1.44,0.72 z m 36.24,0 h 11.83 l 5.41,-17.51 5.48,17.51 h 11.84 V 646.2 h -12.03 v 22.89 l -5.3,-17.59 -5.21,17.59 V 646.2 h -12.02 z m 73.75,-12.02 -2.69,-2.56 v -28.22 l 2.64,-2.63 h 5.45 l 2.64,2.7 v 28.07 l -2.64,2.64 z m -5.56,12.02 h 16.39 l 9.23,-9.24 V 655.6 l -8.68,-8.73 4.59,-5.21 h -8.5 l -4.59,4.47 h -8.43 l -9.16,9.16 v 39 z m 50.25,0 h 12.02 v -42.73 l 2.64,-2.63 h 5.44 l 2.65,2.65 v 42.71 h 12.02 v -48.13 l -9.17,-9.18 h -16.44 l -9.16,9.16 z m 59.28,0.07 h 12.29 l 4.87,-18.57 4.88,18.57 h 12.37 L 431.35,664.49 V 646.2 h -12.02 v 18.25 z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         transform="matrix(1.3333333,0,0,-1.3333333,0,1056)" />
+    </g>
+  </g>
+</svg>
